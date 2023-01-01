@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Manish Kumar"
 title_separator          : "-"
-name                     : &name "MAnish Kumar"
+name                     : &name "Manish Kumar"
 description              : &description "Welcome to my Academic Webpage"
 url                      : https://108mk.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ author:
   # orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackexchange    : https://physics.stackexchange.com/users/145687/108-mk
+  stackoverflow    : https://stackoverflow.com/users/10154356/108-mk?tab=profile
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
@@ -114,8 +114,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : en.wikipedia.org/wiki/User:108_mk
-  researchgate     : https://www.researchgate.net/profile/Manish-Kumar-41
+  wikipedia        : 108_mk
+  researchgate     : #https://www.researchgate.net/profile/Manish-Kumar-41
 
 
 # Reading Files
