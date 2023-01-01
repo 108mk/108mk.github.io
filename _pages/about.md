@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to my homepage!
+## It's time to learn a bit about qubits!!!
+![alt text](https://github.com/108mk/108mk.github.io/blob/9c63e6476d552b5121f919dd6f110903f5d315f5/old_version/demo%20pics/qubit.png)
 
-I am a fourth PhD student in the department of [Computer Science](https://www.cs.wisc.edu/) at [UW-Madison](https://www.wisc.edu/), where I am being advised by [Prof. Jerry Zhu](http://pages.cs.wisc.edu/~jerryzhu/index.html). Previously, I completed my Bachelors in Computer Science and Engineering from [IIT Kanpur](https://cse.iitk.ac.in) where I was supervised by [Prof. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/) and [Prof. Harish Karnick](https://iitk.ac.in/new/dr-harish-karnick).
+I am a first year Masters student of [Quantum Technology](https://iqti.iisc.ac.in/) at [IISc Bengaluru](https://iisc.ac.in/). Previously, I completed my Bachelors and Masters in Physics from [IIT Kanpur](https://cse.iitk.ac.in) where I was supervised by [Prof. Manas Khan](https://home.iitk.ac.in/~mkhan/).
 
-My research interest lies broadly in Machine Learning spanning topics in  Reinforcement Learning, Adversarial Learning, Machine Teaching and Fairness.
-In my free time, I enjoy cooking, yoga and running. 
+My research interest lies broadly in Statistical physics, Qauntum Algorithms and Cryptography.
+I think playing sports is an equally nice idea. For me it is mostly Badminton. 
 
-You can reach me at first_name_initial+last_name at wisc.edu.
+You can reach me at kumarmanish.iitk[at]gmail.com
+## Qubits and their popular Avatars.
+![alt text](https://github.com/108mk/108mk.github.io/blob/9c63e6476d552b5121f919dd6f110903f5d315f5/old_version/demo%20pics/4%20qubit%20types.jpg)
