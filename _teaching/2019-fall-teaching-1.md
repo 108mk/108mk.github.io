@@ -1,12 +1,12 @@
 ---
-title: "CS300 : Programming - II"
-webpage: "https://guide.wisc.edu/courses/comp_sci"
-collection: teaching
+title: "PHY315: Modern Physics Labs"
+webpage: "https://www.iitk.ac.in/phy/modern-physics-lab-phy-315"
+collection: TA
 type: "Teaching Assistant"
-permalink: /teaching/2019-fall-teaching-1
-venue: "Computer Sciences, UW Madison"
-instructor: "Gary Dahl, Mouna Kacem, Hobbes Legault"
-description: "This course covers the principles of object oriented programming with a focus on fundamentals of advanced data structures."
-term: "Fall 2019, Spring 2020"
-location: "Madison, US"
+permalink: #/teaching/2019-fall-teaching-1
+venue: "New Core Labs, IIT Kanpur"
+instructor: "Dr. Krishnacharya Khare, Physics"
+description: "An undergraduate course to get hand on experiencw with soem of the major landmark experiemnets in modern physics."
+term: "Semester-I, 2019-20"
+location: "Kanpur, IND"
 ---
