@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shubham Kumar Bharti  "
+title                    : "Manish Kumar"
 title_separator          : "-"
-name                     : &name "Shubham Kumar Bharti"
+name                     : &name "MAnish Kumar"
 description              : &description "Welcome to my Academic Webpage"
-url                      : https://skbharti.github.io # the base hostname & protocol for your site 
+url                      : https://108mk.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "skbharti/skbharti.github.io"
+repository               : "108mk/108mk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shubham Kumar Bharti"
-  avatar           : "portrait.jpg"
-  bio              : "PhD student in Computer Science at UW-Madison"
-  location         : "Madison, WI"
+  name             : "Manish Kumar"
+  avatar           : "manish_BG-white.png"
+  bio              : "Masters in Quantum Technology at IISc Bengaluru"
+  location         : "Bengaluru, IND"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=C4HtUnEAAAAJ&hl=en
-  email            :  "first_name_initial+last_name@wisc.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : #https://scholar.google.com/citations?user=C4HtUnEAAAAJ&hl=en
+  email            : manishkumar7[at]iisc.ac.in
+  researchgate     : https://www.researchgate.net/profile/Manish-Kumar-41
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : skbharti
+  github           : 108mk
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  shubhamkumarbharti
+  linkedin         :  mk108
   # orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://physics.stackexchange.com/users/145687/108-mk
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : https://en.wikipedia.org/wiki/User:108_mk
 
 
 # Reading Files
