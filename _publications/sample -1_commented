@@ -1,4 +1,4 @@
----
+<---
 title: "Multitask Neural Networks meets Multitask Gaussian Processes"
 collection: publications
 permalink: /publication/2019-12-12-multitask-nn-multitask-gp
@@ -11,4 +11,4 @@ shortvenue: 'Arxiv'
 published: "arxiv"
 paperurl: 'https://arxiv.org/pdf/1912.05723.pdf'
 bibfile: 'relation_between_mtnn_and_mtgp.bib'
----
+--->
