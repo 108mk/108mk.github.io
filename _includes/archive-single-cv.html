@@ -1,0 +1,32 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  {% if post.collection == 'publications' %}
+  <h3 class="archive__item-title" itemprop="headline">
+    {{ title }}
+    {% if post.paperurl %}
+      <a href="{{ }}{{ post.paperurl }}"><button class="btn btn--inverse"> Paper </button></a>
+    {% endif %}
+    {% if post.bibfile %}
+      <a href="{{ site.url }}/files/bibtex/{{ post.bibfile }}"><button class="btn btn--inverse"> Cite </button></a>
+    {% endif %}
+  </h3>
+  <em>{{ post.authors }}, In {{ post.shortvenue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</em>
+{% endif %}
+
+{% if post.collection == 'teaching' %}
+    <h3>{{ title }}</h3>
+{% endif %}
+</div>
