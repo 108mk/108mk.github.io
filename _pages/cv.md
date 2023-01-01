@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Shubham Kumar Bharti"
+title: "Manish Kumar"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,34 +11,25 @@ redirect_from:
 
 ## <u>Education</u>
 
-| **Ph.D. in Computer Science, UW-Madison** | **2019-present** |
-| **M.S. in Computer Science, UW-Madison** | **2019-21** |
-| **B.Tech. in Computer Science and Engineering, IIT Kanpur** | **2015-19** |
+| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022-present** |
+| **B.S M.S. in Physics, IIT Kanpur** | **2015-20** |
 
-## <u>Appointments</u>
+## <u>Academic Projects</u>
 
-* **Summer'20-present : Research Assistant**
-  * Computer Science, UW-Madison
-  * Supervisor: Prof. Jerry Zhu 
+* **Aug'19-July-20 : MS Project**
+  * Soft Matter Lab, PHY, IIT Kanpur
+  * Supervisor: Prof. Manas Khan 
 
-* **Fall'19-Spring'20 : Teaching Assistant**
-  * CS300, Computer Science, UW-Madison
-  * Instructors : Prof. Gary Dahl, Prof. Mouna Kacem, Prof. Hobbes Legault  
+* **Summer 2019 : Data Science Project**
+  * Course: Data mining and Knowledge Discovery
+  * Supervisor: Prof. Faiz Hamid, IIT Kanpur
 
-* **Spring'19 : Teaching Assistant**
-  * ESC101, Computer Science and Engineering, IIT Kanpur 
-  * Instructor : Prof. Swaprava Nath 
-
-* **Summer'18: Research Intern**
-  * HLTRI, Computer Science, UT Dallas
-  * Supervisor: Prof. Vincent Ng
-
-
+<!--
 ## <u>Publications</u>
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
-
+-->
 <br>
 
 <!-- # Teaching
