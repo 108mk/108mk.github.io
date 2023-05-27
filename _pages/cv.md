@@ -14,11 +14,17 @@ redirect_from:
 | **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022-present** |
 | **B.S M.S. in Physics, IIT Kanpur** | **2015-20** |
 
-## <u>Academic Projects</u>
+## <u> Inductrial Internship</u>
 
-* **Aug'19-July-20 : MS Project**
-  * Soft Matter Lab, PHY, IIT Kanpur
-  * Supervisor: Prof. Manas Khan 
+* **May 2022- July 2022 : Summer Internship**
+  * Quantum-Classical hybrid neural network for image classification
+  * Tata Elxsi Ltd., Bengaluru
+
+## <u> Academic Projects</u>
+
+* **Jan- April 2023 : Gradient descent convergence analysis**
+  * Course: Optimization for ML and Data Science
+  * Supervisor: Prof. Sandip Chepuri, IISc Bengaluru
 
 * **Summer 2019 : Data Science Project**
   * Course: Data mining and Knowledge Discovery
@@ -44,9 +50,8 @@ redirect_from:
   {% endfor %}</ul>
    -->
 
-<!-- # Course Works
+# Classroom Course
 
 | ----------- | ----------- | ----------- | 
-| Theoretical Foundations of ML | Advanced Machine Learning |  Computational Learning Theory |  
-| Deep Learning for Computer Vision | Topics in Natural Language Processing | Probabilistic Modelling & Inferences| 
-| Non-Parametric methods in Data Science |  Theory of Reinforcement Learning | Algorithmic Robust Statistics | -->
+| Quantum Computation and Information theory | Convex Optimization for ML and Data Science | Data Mining and Knowledge Discovery |
+Quantum Error Correcting codes | Data Structure and Algorithms | Matrix Theory | Probability and Statistics
