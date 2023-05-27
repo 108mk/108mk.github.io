@@ -11,8 +11,8 @@ redirect_from:
 
 ## <u>Education</u>
 
-| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022- 2024** | 8.20/ 10 |
-| **B.S M.S. in Physics, IIT Kanpur** | **2015- 2020** | 9.05/ 10 |
+| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022- 2024**| **8.20/ 10** |
+| **B.S M.S. in Physics, IIT Kanpur** | **2015- 2020** | **9.05/ 10** |
 
 ## <u> Inductrial Internship</u>
 
@@ -30,7 +30,7 @@ redirect_from:
   * Course: Quantum Error Correcting Codes
   * Supervisor: Prof. Navin Kashyap, IISc Bengaluru
 
-* **May-July 2019 : Taxi Fair Prediction Utilizing Machine Learning Models**
+* **May-July 2019 : Taxi Fair Prediction With Machine Learning**
   * Course: Data mining and Knowledge Discovery
   * Supervisor: Prof. Faiz Hamid, IIT Kanpur
 
