@@ -11,8 +11,8 @@ redirect_from:
 
 ## <u>Education</u>
 
-| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022-present** |
-| **B.S M.S. in Physics, IIT Kanpur** | **2015-20** |
+| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022-present** | 8.20/ 10 |
+| **B.S M.S. in Physics, IIT Kanpur** | **2015-20** | 9.05/ 10 |
 
 ## <u> Inductrial Internship</u>
 
@@ -54,4 +54,4 @@ redirect_from:
 
 | ----------- | ----------- | ----------- | 
 | Quantum Computation and Information theory | Convex Optimization for ML and Data Science | Data Mining and Knowledge Discovery |
-Quantum Error Correcting codes | Data Structure and Algorithms | Matrix Theory | Probability and Statistics
+Quantum Error Correcting codes | Data Structure and Algorithms | Matrix Theory | Probability and Statistics | Qauntum Field Theory |
