@@ -14,7 +14,7 @@ redirect_from:
 | **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022- 2024**| **8.20/ 10** |
 | **B.S M.S. in Physics, IIT Kanpur** | **2015- 2020** | **9.05/ 10** |
 
-## <u> Inductrial Internship</u>
+## <u> Industrial Internship</u>
 
 * **May 2022- July 2022 : Summer Internship**
   * Quantum-Classical hybrid neural network for image classification
