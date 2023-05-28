@@ -11,16 +11,26 @@ redirect_from:
 
 ## <u>Education</u>
 
-| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022-present** |
-| **B.S M.S. in Physics, IIT Kanpur** | **2015-20** |
+| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022- 2024**| **8.20/ 10** |
+| **B.S M.S. in Physics, IIT Kanpur** | **2015- 2020** | **9.05/ 10** |
 
-## <u>Academic Projects</u>
+## <u> Industrial Internship</u>
 
-* **Aug'19-July-20 : MS Project**
-  * Soft Matter Lab, PHY, IIT Kanpur
-  * Supervisor: Prof. Manas Khan 
+* **May 2022- July 2022 : Summer Internship**
+  * Quantum-Classical hybrid neural network for image classification
+  * [Tata Elxsi Ltd.](https://www.tataelxsi.com/), Bengaluru
 
-* **Summer 2019 : Data Science Project**
+## <u> Academic Projects</u>
+
+* **Jan- April 2023 : Gradient descent convergence analysis**
+  * Course: Optimization for ML and Data Science
+  * Supervisor: Prof. Sandip Chepuri, IISc Bengaluru
+
+* **Jan- April 2023 : Tensor Netwrok codes for Quantum Error Correction**
+  * Course: Quantum Error Correcting Codes
+  * Supervisor: Prof. Navin Kashyap, IISc Bengaluru
+
+* **May-July 2019 : Taxi Fair Prediction With Machine Learning**
   * Course: Data mining and Knowledge Discovery
   * Supervisor: Prof. Faiz Hamid, IIT Kanpur
 
@@ -44,9 +54,8 @@ redirect_from:
   {% endfor %}</ul>
    -->
 
-<!-- # Course Works
+# Classroom Course
 
 | ----------- | ----------- | ----------- | 
-| Theoretical Foundations of ML | Advanced Machine Learning |  Computational Learning Theory |  
-| Deep Learning for Computer Vision | Topics in Natural Language Processing | Probabilistic Modelling & Inferences| 
-| Non-Parametric methods in Data Science |  Theory of Reinforcement Learning | Algorithmic Robust Statistics | -->
+| Quantum Computation and Information theory | Convex Optimization for ML and Data Science | Data Mining and Knowledge Discovery |  Matrix Theory |
+Quantum Error Correcting codes | Data Structure and Algorithms | Probability and Statistics | Qauntum Field Theory |
