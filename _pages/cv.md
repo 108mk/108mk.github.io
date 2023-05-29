@@ -58,5 +58,7 @@ redirect_from:
 
 | ----------- | ----------- | ----------- | 
 | Quantum Computation | Deep Learning ([MIT 6.S191](http://introtodeeplearning.com/)) | Convex Optimization  ($\dagger$) |  Matrix Theory
-Probability and Statistics | Data Mining | Data Structure and Algorithms $\dagger$ |  Qauntum Error Correcting codes| 
-Post Qauntum Cryptography | Qauntum Information Theory $\dagger$ | Evolutionary Game Theory | 
+Probability and Statistics | Data Mining | Data Structure and Algorithms ($\dagger$) |  Qauntum Error Correcting codes| 
+Post Qauntum Cryptography | Qauntum Information Theory ($\dagger$) | Evolutionary Game Theory | 
+
+Note: ($\dagger$) Ongoing courses
