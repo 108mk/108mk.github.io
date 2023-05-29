@@ -18,7 +18,7 @@ redirect_from:
 
 * **May 2022- July 2022 : Summer Internship**
   * Quantum-Classical hybrid neural network for image classification
-  * [Tata Elxsi Ltd.](https://www.tataelxsi.com/), Bengaluru
+  * [Tata Elxsi Ltd.](https://www.tataelxsi.com/) Bengaluru
 
 ## <u> Academic Projects</u>
 
@@ -54,8 +54,9 @@ redirect_from:
   {% endfor %}</ul>
    -->
 
-# Classroom Course
+# Coursework
 
 | ----------- | ----------- | ----------- | 
-| Quantum Computation and Information theory | Convex Optimization for ML and Data Science | Data Mining and Knowledge Discovery |  Matrix Theory |
-Quantum Error Correcting codes | Data Structure and Algorithms | Probability and Statistics | Qauntum Field Theory |
+| Quantum Computation | Deep Learning ([MIT 6.S191](http://introtodeeplearning.com/)) | Convex Optimization  ($\dagger$) |  Matrix Theory
+Probability and Statistics | Data Mining | Data Structure and Algorithms $\dagger$ |  Qauntum Error Correcting codes| 
+Post Qauntum Cryptography | Qauntum Information Theory $\dagger$ | Evolutionary Game Theory | 
