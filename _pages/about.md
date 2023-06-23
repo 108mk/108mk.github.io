@@ -26,3 +26,13 @@ Apart from that, I (occasionaly) spend time to familiarize myself with (post) qu
 I occassionaly write blogs on topics related to Phyisics, Maths and (Qauntum) Computing. You can find them in the [blog section](https://108mk.github.io/blog/). 
 
 You can reach me at manishk2020[at]iitkalumni.org
+> This webpage is under construction.
+
+> Major objective of the webpage:
+
+$\spadesuit$ Glimpse to the major research frontiers in Qauntum Computing (QC)
+
+$\clubsuit$ Career opportunities in QC
+
+$\diamondsuit$ To hear from the audience about QC...
+
