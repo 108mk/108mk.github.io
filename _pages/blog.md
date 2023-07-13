@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Quantum Algorithm Zoo: Some Monster resides here too!"
-permalink: https://108mk.github.io/blog/
+permalink: /blog/
 author_profile: Manish Kumar
 ---
 
