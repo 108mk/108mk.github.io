@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Quantum Algorithm Zoo: Some Monster resides here too!"
-permalink: /blog/
-author_profile: true
+permalink: https://108mk.github.io/blog/
+author_profile: Manish Kumar
 ---
 
-# Quantum Algorithm Zoo: Some Monster resides here too!
 For a long time, i was searching for a website for a list of quantum algorithms which should be:
 >
 $\spadesuit$ up-to-date
