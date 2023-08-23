@@ -5,7 +5,7 @@ permalink: /blog/
 author_profile: Manish Kumar
 ---
 
-$\textbf{ Post-01:}$ $\textbf{BQP is growing young! Now it competes with the entire PH (classical Polynomial hierarchy).}$
+$\textbf{ Post-01:}$ $\textbf{BQP is growing young! Now it's BQP vs PH.}$
 
 $\Psi$ "Oracle Separation of BQP and PH" by [Raz-Tal, 2018](https://dl.acm.org/doi/10.1145/3313276.3316315)
 
