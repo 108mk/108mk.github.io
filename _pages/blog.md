@@ -12,9 +12,9 @@ author_profile: Manish Kumar
 $\spadesuit$ "Oracle Separation of BQP and PH" by [Raz-Tal, 2018](https://dl.acm.org/doi/10.1145/3313276.3316315)
 
 This paper is remarkable for two reasons:
-> 1. Under the "Oracle setting", there is a problem (named FORRELATION) that can be efficiently solved by Quantum Computer (BQP class). Still, this problem is shown to lie outside the entire classical Polynomial-time hierarchy (PH class)!!! Or, the problem is (probably) beyond the reach of classical computers, even if, in the future, someone proves or disproves P = NP.
+> Under the "Oracle setting", there is a problem (named FORRELATION) that can be efficiently solved by Quantum Computer (BQP class). Still, this problem is shown to lie outside the entire classical Polynomial-time hierarchy (PH class)!!! Or, the problem is (probably) beyond the reach of classical computers, even if, in the future, someone proves or disproves P = NP.
 
-> 2. A breakthrough of such magnitude (in Quantum complexity theory) happened last time almost a decade ago. The progress in the field seemed to stagnate. But now, some quantum complexity theorists are calling the current research era the "post-Raz-Tal world".
+> A breakthrough of such magnitude (in Quantum complexity theory) happened last time almost a decade ago. The progress in the field seemed to stagnate. But now, some quantum complexity theorists are calling the current research era the "post-Raz-Tal world".
 
 
 ###################################################################
@@ -25,9 +25,9 @@ $\spadesuit$ "Acrobatics of BQP" by [Aaronson-Ingram-Kretschmer, 2022](https://e
 
 Two awesome reasons to read the paper are as follows:
 
->1. There are some well-known heuristics to remove classical randomness powering classical complexity class BPP. However, it is poorly understood if some heuristics exist to remove "Quantumness" from the BQP class.
+>There are some well-known heuristics to remove classical randomness powering classical complexity class BPP. However, it is poorly understood if some heuristics exist to remove "Quantumness" from the BQP class.
 
->2. The inability to remove quantumness from all quantum algorithms has astonishing (as well as whimsical) consequences. Perhaps the authors named the paper 'Acrobatics of BQP' for the same reason!
+>The inability to remove quantumness from all quantum algorithms has astonishing (as well as whimsical) consequences. Perhaps the authors named the paper 'Acrobatics of BQP' for the same reason!
 
 
 ###################################################################
