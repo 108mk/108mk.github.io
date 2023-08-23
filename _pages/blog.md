@@ -4,9 +4,6 @@ Title: Some Legends of BQP Complexity Class
 permalink: /blog/
 author_profile: Manish Kumar
 ---
-
-###############################
-
 $\Psi$ Post-01: "BQP is growing young! Now it competes with the entire PH (classical Polynomial hierarchy)."
 
 $\bullet$ "Oracle Separation of BQP and PH" by [Raz-Tal, 2018](https://dl.acm.org/doi/10.1145/3313276.3316315)
