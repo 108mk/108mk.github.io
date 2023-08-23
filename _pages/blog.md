@@ -5,7 +5,7 @@ permalink: /blog/
 author_profile: Manish Kumar
 ---
 
-###################################################################
+###############################
 
 #Post1: "BQP is growing young! Now it competes with the entire PH (classical Polynomial hierarchy)."
 
@@ -17,7 +17,7 @@ This paper is remarkable for two reasons:
 > A breakthrough of such magnitude (in Quantum complexity theory) happened last time almost a decade ago. The progress in the field seemed to stagnate. But now, some quantum complexity theorists are calling the current research era the "post-Raz-Tal world".
 
 
-###################################################################
+##################################
 
 #Post2: "Can you remove Quantumnesss from all Quantum algorithms?" 
 
@@ -30,7 +30,7 @@ Two awesome reasons to read the paper are as follows:
 >The inability to remove quantumness from all quantum algorithms has astonishing (as well as whimsical) consequences. Perhaps the authors named the paper 'Acrobatics of BQP' for the same reason!
 
 
-###################################################################
+###############################
 
 #Post3: "Quantum Algorithm Zoo: Here lies (classically) unseen monsters!"
 
