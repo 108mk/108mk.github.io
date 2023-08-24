@@ -10,27 +10,27 @@ redirect_from:
 
 ## Let's learn a bit about Qubit!!!
 
-$\bigstar$ First of all welcome to my web page! $\bigstar$
+$\bigstar$ First of all, welcome to my web page! $\bigstar$
 
 I am a second year Masters student of [Quantum Technology](https://iqti.iisc.ac.in/) at [IISc Bengaluru](https://iisc.ac.in/). 
-Before this, I completed my undergrad (BSMS) in Physics from [IIT Kanpur](https://cse.iitk.ac.in) where I was supervised by [Prof. Manas Khan](https://home.iitk.ac.in/~mkhan/) on Brownian dynamics simulation.[Github Repo](https://github.com/108mk/Random-Walk-Simulation-to-study-Anamolous-Diffusion.git)
+Before this, I completed my undergrad (BSMS) in Physics from [IIT Kanpur](https://iitk.ac.in), where Prof [Manas Khan](https://home.iitk.ac.in/~mkhan/) supervised me on Brownian dynamics simulation.[[Github Repo](https://github.com/108mk/Random-Walk-Simulation-to-study-Anamolous-Diffusion.git)]
 
-My current research interest broadly lies in the implementation of Qauntum algorithms in:
+My current research interest broadly lies in the implementation of Quantum algorithms in:
 - Deep learning
-- Combinatorial optimization
+- Optimization
 - Quantum simulation and 
 - Quantum information theory
 
-Apart from that, I (occasionaly) spend time to familiarize myself with (post) quantum cryptography and error correcting codes.
+Apart from that, I (occasionally) spend time to familiarize myself with (post) quantum cryptography and error-correcting codes.
 
-I occassionaly write blogs on topics related to Phyisics, Maths and (Qauntum) Computing. You can find them in the [blog section](https://108mk.github.io/blog/). 
+I occasionally write blogs to know how well I understand Physics, Maths and (Quantum) Computation. You can find them in the [[blog section](https://108mk.github.io/blog/).]
 
 You can reach me at manishk2020[at]iitkalumni.org
 > This webpage is under construction.
 
 > Major objective of the webpage:
 
-$\spadesuit$ Glimpse to the major research frontiers in Qauntum Computing (QC)
+$\spadesuit$ Glimpse to the major research frontiers in Quantum Computing (QC)
 
 $\clubsuit$ Career opportunities in QC
 
