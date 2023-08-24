@@ -62,3 +62,5 @@ Data Mining | Computational Optimization |  Deep Learning for NLP ($\dagger$) | 
 Design & Analysis of Algorithms($\dagger$) | Computational Complexity Theory($\dagger$) |Real & Complex Analysis | Abstract Algebra
 
 Note: ($\dagger$) Ongoing courses
+------------------
+### [[Link to detailed CV](https://github.com/108mk/108mk.github.io/blob/2c31439235b3f4443f464c3037d64692c92e19ca/_pages/IISc_Manish-Kumar_MTech_Quantum-Tech01.pdf)]
