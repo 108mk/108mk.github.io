@@ -9,29 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-## <u>Education</u>
+## <u>EDUCATION</u>
 
-| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022- 2024**| **8.20/ 10** |
-| **B.S M.S. in Physics, IIT Kanpur** | **2015- 2020** | **9.05/ 10** |
+| **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022- 2024**|
+| **B.S M.S. in Physics, IIT Kanpur** | **2015- 2020**|
 
-## <u> Industrial Internship</u>
+## <u> INDUSTRIAL INTERNSHIP</u>
 
-* **May 2022- July 2022 : Summer Internship**
-  * Quantum-Classical hybrid neural network for image classification
-  * [Tata Elxsi Ltd.](https://www.tataelxsi.com/) Bengaluru
+* **May 2022- July 2022: Summer Internship**
+  * Quantum-Classical Hybrid Neural Network for noise robust Image Classification
+  * [Tata Elxsi Ltd.](https://www.tataelxsi.com/), Bengaluru
 
-## <u> Academic Projects</u>
+## <u> ACADEMIC PROJECTS</u>
 
-* **Jan- April 2023 : Gradient descent convergence analysis**
+* **Jan- April 2023: Gradient Descent Convergence Analysis**
   * Course: Optimization for ML and Data Science
   * Supervisor: Prof. Sandip Chepuri, IISc Bengaluru
 
-* **Jan- April 2023 : Tensor Netwrok codes for Quantum Error Correction**
+* **Jan- April 2023: Tensor Network codes for Quantum Error Correction**
   * Course: Quantum Error Correcting Codes
   * Supervisor: Prof. Navin Kashyap, IISc Bengaluru
 
-* **May-July 2019 : Taxi Fair Prediction With Machine Learning**
-  * Course: Data mining and Knowledge Discovery
+* **May-July 2019: Taxi Fair Prediction With Machine Learning**
+  * Course: Data Mining and Knowledge Discovery
   * Supervisor: Prof. Faiz Hamid, IIT Kanpur
 
 <!--
@@ -54,7 +54,7 @@ redirect_from:
   {% endfor %}</ul>
    -->
 
-# Coursework
+# COURSEWORK
 
 | ----------- | ----------- | ----------- | 
 | Quantum Computation & Information | Quantum Error Correction  | Post Quantum Cryptography  |  Matrix Theory ($\dagger$) 
