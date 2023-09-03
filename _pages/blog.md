@@ -47,7 +47,7 @@ I think our search ends with the below website maintained by Stephen Jordon (Goo
 
 $\textbf{ Post-04:}$ $\textbf{An Algorithmic diaries: They worth being discussed}$
 
-($\Psi-1$). Best and Worst way to solve an algorithm
+($\Psi.1$). Best and Worst way to solve an algorithm
 > Problem-1: Multiplication of two integers:
 
 > Problem-2: Minimum spanning tree:
@@ -56,7 +56,7 @@ $\textbf{ Post-04:}$ $\textbf{An Algorithmic diaries: They worth being discussed
 
 > Problem-4: Factoring Integers:
 
-($\Psi-1$). "[Galactic Algorithms](https://en.wikipedia.org/wiki/Galactic_algorithm) and How to make them"
+($\Psi.2$). "[Galactic Algorithms](https://en.wikipedia.org/wiki/Galactic_algorithm) and How to make them"
 > As the story goes, an algorithm with complexity $\mathcal{O}(n^{100000000})$ for Travelling sales man problem(TSP) would be enough to prove $P=NP$. Although the same algorithm can't be used in practice to solve TSP. But it will make the life of theoretical computer scientists much easier(!)
 
 > A good example of a galactic algorithm is the AKS-primality test; it decides if a number $n$ is prime or not with runtime complexity $\mathcal{O}(n^{7.5})$. It showed the problem $PRIME\ is\ in\ P$. But still, the most practical primality test used by our computers is Miller-Rabin, a randomised algorithm (BPP class).
