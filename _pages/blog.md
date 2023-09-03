@@ -47,7 +47,7 @@ I think our search ends with the below website maintained by Stephen Jordon (Goo
 
 $\textbf{ Post-04:}$ $\textbf{An Algorithmic diaries: They worth being discussed}$
 
-($\Psi.1$). Best and Worst way to solve an algorithm
+($\Psi.1$). Best and Worst way to solve an algorithm [Will be updated soon...]
 > Problem-1: Multiplication of two integers:
 
 > Problem-2: Minimum spanning tree:
@@ -60,3 +60,17 @@ $\textbf{ Post-04:}$ $\textbf{An Algorithmic diaries: They worth being discussed
 > As the story goes, an algorithm with complexity $\mathcal{O}(n^{100000000})$ for Travelling sales man problem(TSP) would be enough to prove $P=NP$. Although the same algorithm can't be used in practice to solve TSP. But it will make the life of theoretical computer scientists much easier(!)
 
 > A good example of a galactic algorithm is the AKS-primality test; it decides if a number $n$ is prime or not with runtime complexity $\mathcal{O}(n^{7.5})$. It showed the problem $PRIME\ is\ in\ P$. But still, the most practical primality test used by our computers is Miller-Rabin, a randomised algorithm (BPP class).
+
+------------------------------------
+$\textbf{ Post-05:}$ $\textbf{Noam Chomsky: What does it mean to be truly educated?}$ [Link to video](https://youtu.be/eYHQcXVp4F4?si=rlu6LDVafcTyuqsU)
+> My name is Noam Chomsky. I'm a retired professor at the Massachusetts Institute of Technology, where I've been for 65 years.
+
+> I think, very plausibly, that the core principle and requirement of a fulfilled human being is the ability to inquire and create constructively independently without external controls.
+
+> A leading physicist at MIT once told us in classes that it's not important what we cover in the class. It's important what you discover.
+
+> To be truly educated from this point of view means to be in a position to inquire and create on the basis of the resources available to you, which you've come to appreciate and comprehend. To know where to look, to know how to formulate serious questions. Also, to question standard doctrine, to doubt if it is appropriate. It also includes finding your own way to shape the questions that are worth pursuing and developing the path to pursue them.
+
+> This requires knowing and understanding many things. But it is also much more important than what you have stored in your mind to know where to look, what to look and how to question, and how to proceed independently to deal with the challenges that the world presents to you and that you develop in the course of your self-education and inquiry and the investigations in cooperation and solidarity with others.
+
+> That's what an educational system should cultivate, from kindergarten to the high Graduate School, and in the best cases, sometimes does. And that leads to people who are, at least by my standards, well-educated.
