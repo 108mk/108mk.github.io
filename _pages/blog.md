@@ -45,6 +45,52 @@ I think our search ends with the below website maintained by Stephen Jordon (Goo
 
 -------------------------------------
 
+$\textbf{ Post-04:}$ $\textbf{Algorithmic Paradigms: Classical and Quantum}$
+
+($\Psi.1$). Classical Paradigms
+
+$\bullet$ A simple Wikipedia search will give you a list of such methods as:
+
+> $\bullet$ Local search (iterative methods) 
+$\bullet$ Brute-force search
+$\bullet$ Divide and Conquer
+$\bullet$ Greedy approach
+$\bullet$ Dynamic Programming
+$\bullet$ Guessing (!)
+
+$\bullet$ But one can nicely fit all of them into three major categories: 
+> Local Search (LS): This is the inspiration for most of the gradient-based learning schemes and, in fact (almost) all computational optimization schemes like Newton's methods, BFGS, etc.
+
+> Dynamic Programming (DP): DP gives a general foundation to 'greedy' and 'divide & conquer'. Perhaps this is what brings a unique sense of creativity to this field.
+
+> Brute-force search: There is a popular joke in the algorithm community. There is an algorithm that guarantees to solve NP-complete problems and even harder problems than that. Its name is the Brute-force algorithm, but the only caveat is that it solves it in superpolynomial time(!)
+
+ ($\Psi.1$). Quantum Paradigms
+
+The three most important paradigms are: 
+> Amplitude Amplification-based algorithms: This uses the wave-ness of the quantum system to make (relatively) faster algorithms for certain special tasks like search and so on. [Grover Search Algorithms](https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm) is a direct consequence of this.
+
+> Quantum Fourier transform-based algorithms: This is the foundation for several oracle-based algorithms like-
+
+$\bullet$ Deutsch–Jozsa algorithm $\bullet$ Bernstein–Vazirani algorithm $\bullet$ Simon's algorithm $\bullet$ Quantum phase estimation $\bullet$ Fourier fishing and Fourier checking.
+
+Some non-oracle-based algorithms giving superpolynomial speedups are-
+
+$\bullet$ Shor Integer Factoring algorithms algorithm and, $\bullet$ HHL algorithm for system of Linear equation 
+
+Note-1: Quantum Fourier transform(QFT) is extremely efficient compared to classical Fast Fourier transform (FFT). Asymptotic runtimes are as follows:
+
+QFT (By Don Coppersmith): $\mathcal{O}(log(n)^2))$
+
+FFT (By Cooley & Tuckey): $\mathcal{O}(n \cdot log(n))$
+
+Note-2: [Perhaps] QFT is the core reason for the government and private funding to the quantum computing community. And the only hope for me to achieve financial prosperity in life.[:)]
+
+
+> Quantum Walk based algorithms: 
+
+-------------------------------------
+
 $\textbf{ Post-04:}$ $\textbf{An Algorithmic diaries: Let's get puzzled by puzzles(!)}$
 
 ($\Psi.1$). Best and Worst way to solve an algorithm [Will be updated soon...]
