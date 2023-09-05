@@ -54,11 +54,11 @@ $\textbf{ Post-04:}$ $\textbf{An Algorithmic diaries: They worth being discussed
 
 > Problem-3: Shortest path in a weighted graph:
 
-> Problem-3: Discrete Fourier transform:
+> Problem-4: Discrete Fourier transform:
 
-> Problem-4: Factoring Integers:
+> Problem-5: Factoring Integers:
 
-> Problem-5: Maximum Flow Problem:
+> Problem-6: Maximum Flow Problem:
 
 ($\Psi.2$). "[Galactic Algorithms](https://en.wikipedia.org/wiki/Galactic_algorithm) and How to make them"
 > As the story goes, an algorithm with complexity $\mathcal{O}(n^{100000000})$ for Travelling sales man problem(TSP) would be enough to prove $P=NP$. Although the same algorithm can't be used in practice to solve TSP. But it will make the life of theoretical computer scientists much easier(!)
