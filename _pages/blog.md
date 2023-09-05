@@ -45,7 +45,7 @@ I think our search ends with the below website maintained by Stephen Jordon (Goo
 
 -------------------------------------
 
-$\textbf{ Post-04:}$ $\textbf{An Algorithmic diaries: They worth being discussed}$
+$\textbf{ Post-04:}$ $\textbf{An Algorithmic diaries: Let's get puzzled by puzzles(!)}$
 
 ($\Psi.1$). Best and Worst way to solve an algorithm [Will be updated soon...]
 > Problem-1: Multiplication of two integers:
