@@ -12,7 +12,7 @@ redirect_from:
 
 $\bigstar$ First of all, welcome to my web page! $\bigstar$
 
-I am a second year Masters student of [Quantum Technology](https://iqti.iisc.ac.in/) at [IISc Bengaluru](https://iisc.ac.in/). I am currently working under [Prof. Apooorva Patel], aiming to understand the potential application of quantum algorithms.
+I am a second year Masters student of [Quantum Technology](https://iqti.iisc.ac.in/) at [IISc Bengaluru](https://iisc.ac.in/). I am currently working under [Prof. Apooorva Patel](https://chep.iisc.ac.in/Personnel/adpatel.html), aiming to understand the potential application of quantum algorithms.
 
 Before this, I completed my undergrad (BSMS) in Physics from [IIT Kanpur](https://iitk.ac.in), where Prof [Manas Khan](https://home.iitk.ac.in/~mkhan/) supervised me on Brownian dynamics simulation.[[Github Repo](https://github.com/108mk/Random-Walk-Simulation-to-study-Anamolous-Diffusion.git)]
 
