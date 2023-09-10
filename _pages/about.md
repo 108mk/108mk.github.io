@@ -24,7 +24,7 @@ My current research interest broadly lies in the implementation of Quantum algor
 
 Apart from that, I (occasionally) spend time to familiarize myself with (post) quantum cryptography and error-correcting codes.
 
-I occasionally write blogs to know how well I understand Physics, Maths and (Quantum) Computation. You can find them in the [[blog section](https://108mk.github.io/blog/).]
+I occasionally write blogs to gauge my understanding of Physics, Maths and (Quantum) Computation. You can find them in the [[blog section](https://108mk.github.io/blog/).]
 
 You can reach me at manishk2020[at]iitkalumni.org
 > This webpage is under construction.
@@ -36,4 +36,6 @@ $\spadesuit$ Glimpse to the major research frontiers in Quantum Computing (QC)
 $\clubsuit$ Career opportunities in QC
 
 $\diamondsuit$ To hear from the audience about QC...
+
+![](https://komarev.com/ghpvc/?username=108mk&style=for-the-badge)
 
