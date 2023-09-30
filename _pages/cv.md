@@ -63,4 +63,4 @@ Design & Analysis of Algorithms($\dagger$) | Computational Complexity Theory($\d
 
 Note: ($\dagger$) Ongoing courses
 ------------------
-### [[Link to detailed CV](https://github.com/108mk/108mk.github.io/blob/2c31439235b3f4443f464c3037d64692c92e19ca/_pages/IISc_Manish-Kumar_MTech_Quantum-Tech01.pdf)]
+### [[Link to detailed CV](https://github.com/108mk/108mk.github.io/blob/b4a47f6d4ffc352bec6bfd2930b604ede01b03f9/_pages/Manish_kumar_IISc_MTech-Quantum-Tech.pdf)]
