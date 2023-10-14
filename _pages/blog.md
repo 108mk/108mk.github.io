@@ -5,7 +5,7 @@ permalink: /blog/
 author_profile: Manish Kumar
 ---
 
-$\textbf{ Post-01:}$ $\huge{Some\ news\ from\ the\ battleground\ on\ FORRELATION:\ Score\ is\ 1-0\ for\ BQP\ vs\ PH}$
+$\textbf{ Post-01:}$ $\large{Some\ news\ from\ the\ battleground\ on\ FORRELATION:\ Score\ is\ 1-0\ for\ BQP\ vs\ PH}$
 
 ($\Psi$). "Oracle Separation of BQP and PH" by [Raz-Tal, 2018](https://dl.acm.org/doi/10.1145/3313276.3316315)
 
@@ -23,7 +23,7 @@ This paper is remarkable for two reasons:
 
 ---------------------------------
 
-$\textbf{Post-02:}$ $\huge{Can\ you\ remove\ Quantumnesss\ from\ all\ Quantum\ algorithms?}$
+$\textbf{Post-02:}$ $\large{Can\ you\ remove\ Quantumnesss\ from\ all\ Quantum\ algorithms?}$
 
 ($\Psi$). "Acrobatics of BQP" by [Aaronson-Ingram-Kretschmer, 2022](https://eccc.weizmann.ac.il/report/2021/164/)
 
@@ -36,7 +36,7 @@ Two awesome reasons to read the paper are as follows:
 
 ----------------------------------
 
-$\textbf{Post-03:}$ $\huge{Quantum\ Algorithm\ Zoo:\ Here\ lie\ (classically)\ unseen\ monsters!}$
+$\textbf{Post-03:}$ $\large{Quantum\ Algorithm\ Zoo:\ Here\ lie\ (classically)\ unseen\ monsters!}$
 
 For a long time, I was searching for a website on Quantum Algorithm having the following features:
 >
@@ -53,7 +53,7 @@ I think our search ends with the below website maintained by Stephen Jordon (Goo
 
 $\textbf{ Post-04:}$ $\textbf{Algorithmic Paradigms: Classical and Quantum}$
 
-($\Psi.1$). $\huge{Classical\ Paradigms}$
+($\Psi.1$). $\large{Classical\ Paradigms}$
 
 $\bullet$ A simple Wikipedia search will give you a list of such methods as:
 
@@ -70,7 +70,7 @@ $\bullet$ But one can nicely fit all of them into three major categories:
 
 > Brute-force search: There is a popular joke in the algorithm community. There is an algorithm that guarantees to solve NP-complete problems and even harder problems than that. Its name is the Brute-force algorithm, but the only caveat is that it solves it in superpolynomial time(!)
 
- ($\Psi.1$). $\huge{Quantum\ Paradigms}$
+ ($\Psi.1$). $\large{Quantum\ Paradigms}$
 
 🎯 The three most important paradigms are: 
 > (I) Amplitude Amplification-based algorithms: This uses the wave-ness of the quantum system to make (relatively) faster algorithms for certain special tasks like search and so on. [Grover Search Algorithms](https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm) is a direct consequence of this.
