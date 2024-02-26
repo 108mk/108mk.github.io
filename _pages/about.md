@@ -17,10 +17,8 @@ I am a second year Masters student of [Quantum Technology](https://iqti.iisc.ac.
 Before this, I completed my undergrad (BSMS) in Physics from [IIT Kanpur](https://iitk.ac.in), where Prof [Manas Khan](https://home.iitk.ac.in/~mkhan/) supervised me on Brownian dynamics simulation.[[Github Repo](https://github.com/108mk/Random-Walk-Simulation-to-study-Anamolous-Diffusion.git)]
 
 My current research interest broadly lies in the implementation of Quantum algorithms in:
-- Deep learning
-- Optimization
-- Quantum simulation and 
-- Quantum information theory
+- Quantum Hamiltonian Simulation (for certain ODEs and PDEs)
+- Optimization (Machine Learning Models & Logistics)
 
 Apart from that, I (occasionally) spend time to familiarize myself with (post) quantum cryptography and error-correcting codes.
 
@@ -31,7 +29,7 @@ You can reach me at manishk2020[at]iitkalumni.org
 
 > Major objective of the webpage:
 
-$\spadesuit$ Glimpse to the major research frontiers in Quantum Computing (QC)
+$\spadesuit$ Glimpse to the significant research frontiers in Quantum Computing (QC)
 
 $\clubsuit$ Career opportunities in QC
 
