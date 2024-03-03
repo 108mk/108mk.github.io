@@ -12,13 +12,18 @@ redirect_from:
 
 $\bigstar$ First of all, welcome to my web page! $\bigstar$
 
-I am a second year Masters student of [Quantum Technology](https://iqti.iisc.ac.in/) at [IISc Bengaluru](https://iisc.ac.in/). I am currently working under [Prof. Apooorva Patel](https://chep.iisc.ac.in/Personnel/adpatel.html), aiming to understand the potential application of quantum algorithms.
+I am a second-year year Masters student of [Quantum Technology](https://iqti.iisc.ac.in/) at [IISc Bengaluru](https://iisc.ac.in/). I am currently working under [Prof. Apooorva Patel](https://chep.iisc.ac.in/Personnel/adpatel.html), aiming to understand the potential application of quantum algorithms.
 
 Before this, I completed my undergrad (BSMS) in Physics from [IIT Kanpur](https://iitk.ac.in), where Prof [Manas Khan](https://home.iitk.ac.in/~mkhan/) supervised me on Brownian dynamics simulation.[[Github Repo](https://github.com/108mk/Random-Walk-Simulation-to-study-Anamolous-Diffusion.git)]
 
 My current research interest broadly lies in the implementation of Quantum algorithms in:
 - Quantum Hamiltonian Simulation (for certain ODEs and PDEs)
 - Optimization (Machine Learning Models & Logistics)
+
+<a href="https://stackexchange.com/users/10264162/108-mk"><img src="https://stackexchange.com/users/flair/10264162.png" width="208" height="58" alt="profile for 108_mk on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for 108_mk on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+
+
 
 Apart from that, I (occasionally) spend time to familiarize myself with (post) quantum cryptography and error-correcting codes.
 
