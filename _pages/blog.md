@@ -5,19 +5,25 @@ permalink: /blog/
 author_profile: Manish Kumar
 ---
 
-$\textbf{ Post-01:}$ $\textbf{BQP is growing young! Now it's BQP vs PH.}$
+$\textbf{ Post-01:}$ $\large{Some\ news\ from\ the\ battleground\ on\ FORRELATION:\ Score\ is\ 1-0\ for\ BQP\ vs\ PH}$
 
 ($\Psi$). "Oracle Separation of BQP and PH" by [Raz-Tal, 2018](https://dl.acm.org/doi/10.1145/3313276.3316315)
 
 This paper is remarkable for two reasons:
-> Under the "Oracle setting", there is a problem (named FORRELATION) that can be efficiently solved by Quantum Computer (BQP class). Still, this problem is shown to lie outside the entire classical Polynomial-time hierarchy (PH class)!!! Or, the problem is (probably) beyond the reach of classical computers, even if, in the future, someone proves or disproves P = NP.
+>> Under the "Oracle setting", there is a problem (named FORRELATION) that can be efficiently solved by Quantum Computer (BQP class). Still, this problem is shown to lie outside the classical Polynomial-time hierarchy (PH class)!!!
+>
+>> This gives some intuition that there could be some problem that might be beyond the reach of classical computers, even if, in the future, someone proves or disproves P = NP.
 
-> A breakthrough of such magnitude (in Quantum complexity theory) happened last time almost a decade ago. The progress in the field seemed to stagnate. But now, some quantum complexity theorists are calling the current research era the "post-Raz-Tal world".
+>> It was a conjecture that [FORRELATION](https://arxiv.org/abs/0910.4698) is not in PH (in relativised world). This paper proved that this conjecture is indeed true. This is a non-trivial proof.
+>
+>> It requires proving the circuit lower bound for $AC^{0}$, (bounded depth circuit) in this context. The capability/limitation of a random walk to construct a pseudorandom generator has been partially used to build up the proof argument.
+
+> 
 
 
 ---------------------------------
 
-$\textbf{Post-02: Can you remove Quantumnesss from all Quantum algorithms?}$
+$\textbf{Post-02:}$ $\large{Can\ you\ remove\ Quantumnesss\ from\ all\ Quantum\ algorithms?}$
 
 ($\Psi$). "Acrobatics of BQP" by [Aaronson-Ingram-Kretschmer, 2022](https://eccc.weizmann.ac.il/report/2021/164/)
 
@@ -30,7 +36,7 @@ Two awesome reasons to read the paper are as follows:
 
 ----------------------------------
 
-$\textbf{Post-03: Quantum Algorithm Zoo: Here lie (classically) unseen monsters!}$
+$\textbf{Post-03:}$ $\large{Quantum\ Algorithm\ Zoo:\ Here\ lie\ (classically)\ unseen\ monsters!}$
 
 For a long time, I was searching for a website on Quantum Algorithm having the following features:
 >
@@ -47,16 +53,15 @@ I think our search ends with the below website maintained by Stephen Jordon (Goo
 
 $\textbf{ Post-04:}$ $\textbf{Algorithmic Paradigms: Classical and Quantum}$
 
-($\Psi.1$). Classical Paradigms
+($\Psi.1$). $\large{Classical\ Paradigms}$
 
 $\bullet$ A simple Wikipedia search will give you a list of such methods as:
 
-> $\bullet$ Local search (iterative methods) 
-$\bullet$ Brute-force search
-$\bullet$ Divide and Conquer
-$\bullet$ Greedy approach
-$\bullet$ Dynamic Programming
-$\bullet$ Guessing (!)
+⭐ Local search (iterative methods) 
+⭐ Brute-force search
+⭐ Divide and Conquer
+⭐ Greedy approach
+⭐ Dynamic Programming
 
 $\bullet$ But one can nicely fit all of them into three major categories: 
 > Local Search (LS): This is the inspiration for most of the gradient-based learning schemes and, in fact (almost) all computational optimization schemes like Newton's methods, BFGS, etc.
@@ -65,29 +70,27 @@ $\bullet$ But one can nicely fit all of them into three major categories:
 
 > Brute-force search: There is a popular joke in the algorithm community. There is an algorithm that guarantees to solve NP-complete problems and even harder problems than that. Its name is the Brute-force algorithm, but the only caveat is that it solves it in superpolynomial time(!)
 
- ($\Psi.1$). Quantum Paradigms
+ ($\Psi.1$). $\large{Quantum\ Paradigms}$
 
-The three most important paradigms are: 
-> Amplitude Amplification-based algorithms: This uses the wave-ness of the quantum system to make (relatively) faster algorithms for certain special tasks like search and so on. [Grover Search Algorithms](https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm) is a direct consequence of this.
+🎯 The three most important paradigms are: 
+> (I) Amplitude Amplification-based algorithms: This uses the wave-ness of the quantum system to make (relatively) faster algorithms for certain special tasks like search and so on. [Grover Search Algorithms](https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm) is a direct consequence of this.
 
-> Quantum Fourier transform-based algorithms: This is the foundation for several oracle-based algorithms like-
+> (II) Quantum Fourier transform-based algorithms: This is the foundation for several oracle-based algorithms like-
 
-$\bullet$ Deutsch–Jozsa algorithm $\bullet$ Bernstein–Vazirani algorithm $\bullet$ Simon's algorithm $\bullet$ Quantum phase estimation $\bullet$ Fourier fishing and Fourier checking.
+⭐Deutsch–Jozsa algorithm ⭐ Bernstein–Vazirani algorithm ⭐ Simon's algorithm ⭐ Quantum phase estimation ⭐ Fourier fishing and Fourier checking.
 
-Some non-oracle-based algorithms giving superpolynomial speedups are-
+🎯 Some non-oracle-based algorithms giving superpolynomial speedups are-
 
-$\bullet$ Shor Integer Factoring algorithms algorithm and, $\bullet$ HHL algorithm for system of Linear equation 
+🥳 Shor Integer Factoring algorithms algorithm and, 😄 HHL algorithm for a (sparse) system of Linear equation 
 
 Note-1: Quantum Fourier transform(QFT) is extremely efficient compared to classical Fast Fourier transform (FFT). Asymptotic runtimes are as follows:
 
-QFT (By Don Coppersmith): $\mathcal{O}(log(n)^2))$
+⭐ QFT (By Don Coppersmith): $\mathcal{O}(log(n)^2))$
 
-FFT (By Cooley & Tuckey): $\mathcal{O}(n \cdot log(n))$
-
-Note-2: [Perhaps] QFT is the core reason for the government and private funding to the quantum computing community. And the only hope for me to achieve financial prosperity in life.[:)]
+⭐ FFT (By Cooley & Tuckey): $\mathcal{O}(n \cdot log(n))$
 
 
-> Quantum Walk based algorithms: 
+> (III) Quantum walk-based algorithms: Quantum walk can be used as a universal model of quantum computation. WELDED TREE PROBLEM is a highly studied case to explore an exponential separation between BQP and BPP/P.
 
 -------------------------------------
 

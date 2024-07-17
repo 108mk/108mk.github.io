@@ -14,6 +14,11 @@ redirect_from:
 | **M.Tech. in Quantum Technology, IISc Bengaluru** | **2022- 2024**|
 | **B.S M.S. in Physics, IIT Kanpur** | **2015- 2020**|
 
+## <u> M. Tech. (Quantum Tech)</u> 
+* **Dec 2023- June 2024: Prof. Apoorva Patel**
+  * Investigating an efficient quantum algorithm for Reaction-Diffusion equation
+
+
 ## <u> INDUSTRIAL INTERNSHIP</u>
 
 * **May 2022- July 2022: Summer Internship**
@@ -22,17 +27,17 @@ redirect_from:
 
 ## <u> ACADEMIC PROJECTS</u>
 
-* **Jan- April 2023: Gradient Descent Convergence Analysis**
-  * Course: Optimization for ML and Data Science
-  * Supervisor: Prof. Sandip Chepuri, IISc Bengaluru
-
-* **Jan- April 2023: Tensor Network codes for Quantum Error Correction**
+**Oct- Nov 2023: Stochastic Gradient Descent Convergence Analysis**
+  * Course: Computational Optimization
+  * Supervisor: Prof. Chiranjib Bhattacharya, IISc Bengaluru
+   
+**Jan- April 2023: Tensor Network codes for Quantum Error Correction**
   * Course: Quantum Error Correcting Codes
   * Supervisor: Prof. Navin Kashyap, IISc Bengaluru
-
-* **May-July 2019: Taxi Fair Prediction With Machine Learning**
-  * Course: Data Mining and Knowledge Discovery
-  * Supervisor: Prof. Faiz Hamid, IIT Kanpur
+    
+* **Oct-Nov 2023: BQP is in PSPACE**
+  * Course: Computational Complexity Theory
+  * Supervisor: Prof. Chandan Saha, IISc Bengaluru
 
 <!--
 ## <u>Publications</u>
